@@ -1,2 +1,4 @@
-A la Wild Code School on code en chaussettes.
+
+Ici, on code en chaussettes.
+
 
